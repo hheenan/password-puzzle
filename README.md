@@ -1,8 +1,7 @@
 # Password Generator Starter Code
 
 ## User Story:
-An employee with access to sensitive data wants to randomly generate a password that meets certain criteria
-to create a strong password that provides greater security.
+An employee with access to sensitive data wants to randomly generate a password that meets certain criteria to create a strong password that provides greater security.
 
 ## Objective:
 Create new and secure password:
@@ -16,4 +15,8 @@ Upon answer of each prompt the input should be validated and at least one charac
 When all prompts are answered
 a password is generated that matches the selected criteria
 When the password is generated the password is either displayed in an alert or written to the page.
+
+## Links:
+Github - https://github.com/hheenan/password-puzzle
+URL - https://hheenan.github.io/password-puzzle/
 
