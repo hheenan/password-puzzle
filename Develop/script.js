@@ -16,7 +16,7 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-//upon click of generate password 
+//Upon click of generate password 
 
 function generatePassword () {
   var passwordLength =prompt("Enter the number of characters in new password please. The password must be greater than 12 but less than 128");
@@ -25,3 +25,11 @@ function generatePassword () {
   var upperCasses = confirm("Do you want UPPERCASES in your password?");
   var special = confirm("Do you want SPECIAL CHARACTERS in your password?");
 }
+// minimum count for variables above
+var minimumCount = 0;
+// empty string for character variables
+var minimumNumbers = "";
+var minimumLowerCases = "";
+var minimumUpperCases = "";
+var minimumSpecialCharacters = "";
+
