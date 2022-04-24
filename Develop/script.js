@@ -36,6 +36,15 @@ function generatePassword () {
   if (numbers) {
     possiblecharacters = possiblecharacters.concat(numarr)
   }
+  if (lowerCases) {
+    possiblecharacters = possiblecharacters.concat(lowerCasesarr)
+  }
+  if (upperCasses) {
+    possiblecharacters = possiblecharacters.concat(upperCassesarr)
+  }
+  if (special) {
+    possiblecharacters = possiblecharacters.concat(specialarr)
+  }
   for (let index = 0; index < passwordLength; index++) {
     var character = getRandom(possiblecharacters)
     push (character)
