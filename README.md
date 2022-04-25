@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Refactor JS: Password Generator Starter Code
 
 ## User Story:
 An employee with access to sensitive data wants to randomly generate a password that meets certain criteria to create a strong password that provides greater security.
@@ -18,5 +18,5 @@ When the password is generated the password is either displayed in an alert or w
 
 ## Links:
 Github - https://github.com/hheenan/password-puzzle
-URL - https://hheenan.github.io/password-puzzle/
+URL - https://hheenan.github.io/password-puzzle/develop/script.js
 
