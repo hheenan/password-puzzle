@@ -18,5 +18,5 @@ When the password is generated the password is either displayed in an alert or w
 
 ## Links:
 Github - https://github.com/hheenan/password-puzzle
-URL - https://hheenan.github.io/password-puzzle/develop/script.js
+URL - https://hheenan.github.io/password-puzzle/
 
